@@ -4,8 +4,6 @@
   "compatibilityLevel": "JAVA_21",
   "client": [
     "GameOptionsMixin",
-    "InGameHudMixin",
-    "KeyBindingAccessor",
     "MinecraftClientMixin"
   ],
   "injectors": {

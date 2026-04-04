@@ -3,7 +3,7 @@
   "id": "changeattackmode",
   "version": "${version}",
   "name": "Change Attack Mode",
-  "description": "Adds a toggle or hold mode for Attack/Destroy and exposes it in Controls.",
+  "description": "Adds a keybind that toggles the vanilla Attack/Destroy hold-toggle option and shows HUD status.",
   "authors": [
     "Codex"
   ],
@@ -18,7 +18,7 @@
     "changeattackmode.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.16.14",
+    "fabricloader": ">=0.17.0",
     "fabric-api": "*",
     "minecraft": "~1.21.10",
     "java": ">=21"
