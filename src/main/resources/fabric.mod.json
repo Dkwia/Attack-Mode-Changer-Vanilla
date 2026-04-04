@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "changeattackmode",
+  "version": "${version}",
+  "name": "Change Attack Mode",
+  "description": "Adds a toggle or hold mode for Attack/Destroy and exposes it in Controls.",
+  "authors": [
+    "Codex"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.boant.changeattackmode.ChangeAttackModeClient"
+    ]
+  },
+  "mixins": [
+    "changeattackmode.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "fabric-api": "*",
+    "minecraft": "~1.21.10",
+    "java": ">=21"
+  }
+}

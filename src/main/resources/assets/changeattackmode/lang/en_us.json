@@ -1,0 +1,7 @@
+{
+  "changeattackmode.option.attack_mode": "Attack/Destroy: %s",
+  "changeattackmode.mode.hold": "Hold",
+  "changeattackmode.mode.toggle": "Toggle",
+  "key.changeattackmode.toggle_attack_mode": "Attack Toggle: ON",
+  "changeattackmode.hud.toggle_on": "Attack Toggle: ON"
+}

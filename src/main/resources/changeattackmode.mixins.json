@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.boant.changeattackmode.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GameOptionsMixin",
+    "InGameHudMixin",
+    "KeyBindingAccessor",
+    "MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
