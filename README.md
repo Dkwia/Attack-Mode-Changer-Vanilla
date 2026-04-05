@@ -41,7 +41,7 @@ When toggle mode is enabled, the HUD shows `Attack Toggle: ON`.
 
 The built jar will be in:
 
-`build/libs/Attack-Mode-Changer-Vanilla-1.0.0.jar`
+`build/libs/Attack-Mode-Changer-Vanilla-1.0.1.jar`
 
 ## Notes
 
