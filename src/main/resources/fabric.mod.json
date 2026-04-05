@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "changeattackmode",
   "version": "${version}",
-  "name": "Change Attack Mode",
+  "name": "Attack-Mode-Changer-Vanilla",
   "description": "Adds a keybind that toggles the vanilla Attack/Destroy hold-toggle option and shows HUD status.",
   "authors": [
     "Codex"

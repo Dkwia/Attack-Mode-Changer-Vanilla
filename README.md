@@ -1,4 +1,4 @@
-# Change Attack Mode
+# Attack-Mode-Changer-Vanilla
 
 Client-side Fabric mod for Minecraft `1.21.10`.
 
@@ -41,7 +41,7 @@ When toggle mode is enabled, the HUD shows `Attack Toggle: ON`.
 
 The built jar will be in:
 
-`build/libs/change-attack-mode-1.0.0.jar`
+`build/libs/Attack-Mode-Changer-Vanilla-1.0.0.jar`
 
 ## Notes
 

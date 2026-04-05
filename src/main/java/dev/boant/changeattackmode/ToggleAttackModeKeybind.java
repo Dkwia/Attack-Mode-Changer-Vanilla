@@ -10,8 +10,8 @@ public final class ToggleAttackModeKeybind {
 
     public static final KeyBinding KEY = new KeyBinding(
         "key.changeattackmode.toggle_attack_mode",
-        InputUtil.Type.KEYSYM,
-        GLFW.GLFW_KEY_UNKNOWN,
+        InputUtil.Type.MOUSE,
+        GLFW.GLFW_MOUSE_BUTTON_4,
         KeyBinding.Category.GAMEPLAY
     );
 
